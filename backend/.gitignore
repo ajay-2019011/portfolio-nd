@@ -1,0 +1,34 @@
+# Node.js-specific files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables file
+.env
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Editor-specific files
+.vscode/
+.idea/
+*.iml
+
+# Build/Cache directories
+.cache/
+dist/
+
+# System-specific files
+*.lock
